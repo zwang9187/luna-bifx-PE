@@ -1,4 +1,4 @@
-# PE-bifx
+# PE
 Scripts to automate routine directed evolution tasks
 
 # modules
