@@ -1,4 +1,4 @@
-# lunadust-bifx
+# PE-bifx
 Scripts to automate routine directed evolution tasks
 
 # modules
